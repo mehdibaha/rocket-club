@@ -1,0 +1,18 @@
+SEN-10736+SEN-10724
+Tutorial : Building an AHRS using the SparkFun "9DOF Razor IMU" or "9DOF Sensor Stick"
+https://github.com/ptrbrtz/razor-9dof-ahrs/wiki/Tutorial
++ CODE AHRS pour le SEN_10736 !
+
+
+
+SEN-11486
+This is example Arduino code that allows you to print raw accelerometer, gyro, and magnetometer data. The original library came from i2cdevlib.com and was based on the very similar MPU-6050, which only used an accelerometer and gyro. The MPU-6050 device library was modified to include raw magnetometer data for the MPU-9150.
+https://github.com/sparkfun/MPU-9150_Breakout/tree/master/firmware
+
+
+
+MPU-6050 6-axis accelerometer/gyroscope
+http://www.i2cdevlib.com/devices/mpu6050#source
+https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050
+
+
